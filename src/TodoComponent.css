@@ -1,0 +1,23 @@
+.container {
+    border: solid 2px indigo;
+    display:flex;
+    flex-direction:row;
+    
+
+}
+
+h3 {
+
+    padding: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
